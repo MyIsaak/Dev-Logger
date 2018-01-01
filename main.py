@@ -88,7 +88,7 @@ with open('data.json', 'w', encoding='utf8') as outfile:
   if args.text is False:
     with mss() as sct:
       sct.shot(output=settings['gallery'] + '/{date:%Y-%m-%d}.png')
-      data['log'][-1] += "\n\n[![Foo]("+'https://raw.githubusercontent.com/'+settings['username'] +'/'+ settings['reponame'] +'/'+ settings['gallery'] + datetime.datetime.now().strftime("%Y-%m-%d") + ".png)](Screenshot)"
+      data['log'][-1] += "\n\n[![Foo]("+'https://github.com/'+settings['username'] +'/'+ settings['reponame'] +'/raw/master/'+ settings['gallery'] + datetime.datetime.now().strftime("%Y-%m-%d") + ".png)](Screenshot)"
 
   str_ = json.dumps(data,
                     indent=4, sort_keys=True,

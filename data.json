@@ -1,8 +1,8 @@
 {
     "day": 4,
     "log": [
-        "### Day 1: January 01, Monday\n\nI've worked pretty hard on this\n\n[![Foo](https://raw.githubusercontent.com/myisaak/DevLogger/screenshots/2018-01-01.png)](Screenshot)",
-        "### Day 2: January 01, Monday\n\nI've also done this and that no way\n\n[![Foo](https://raw.githubusercontent.com/myisaak/DevLogger/screenshots/2018-01-01.png)](Screenshot)",
-        "### Day 3: January 01, Monday\n\nI've a\n\n[![Foo](https://raw.githubusercontent.com/myisaak/DevLogger/screenshots/2018-01-01.png)](Screenshot)"
+        "### Day 1: January 01, Monday\n\nThis message has been written from DevLogger\n\n[![Foo](https://github.com/username/DevLogger/raw/master/screenshots/2018-01-01.png)](Screenshot)",
+        "### Day 2: January 01, Monday\n\nThis message has been written from DevLogger\n\n[![Foo](https://github.com/username/DevLogger/raw/master/screenshots/2018-01-01.png)](Screenshot)",
+        "### Day 3: January 01, Monday\n\nThis message has been written from DevLogger without screenshot"
     ]
 }

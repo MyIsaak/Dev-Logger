@@ -1,18 +1,16 @@
 ### Day 1: January 01, Monday
 
-I've worked pretty hard on this
+This message has been written from DevLogger
 
-[![Foo](https://raw.githubusercontent.com/myisaak/DevLogger/screenshots/2018-01-01.png)](Screenshot)
+[![Foo](https://github.com/username/DevLogger/raw/master/screenshots/2018-01-01.png)](Screenshot)
 
 ### Day 2: January 01, Monday
 
-I've also done this and that no way
+This message has been written from DevLogger
 
-[![Foo](https://raw.githubusercontent.com/myisaak/DevLogger/screenshots/2018-01-01.png)](Screenshot)
+[![Foo](https://github.com/username/DevLogger/raw/master/screenshots/2018-01-01.png)](Screenshot)
 
 ### Day 3: January 01, Monday
 
-I've a
-
-[![Foo](https://raw.githubusercontent.com/myisaak/DevLogger/screenshots/2018-01-01.png)](Screenshot)
+This message has been written from DevLogger without screenshot
 

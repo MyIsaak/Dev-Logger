@@ -4,7 +4,7 @@ DevLogger is the fastest command line tool for anyone that wants to update their
 
 ### How to use:
 
-Usage: `python main.py [-h] [--append] [--offline] message`
+Usage: `python main.py [-h] [--append] [--offline] [--text] message`
 
 If you need more detailed information just type `python main.py -h`
 
@@ -31,6 +31,8 @@ An example `settings.json` file:
 	"logpath":"log.md",
 	"email": "isaak.eriksson@gmail.com",
 	"repo": "url",
-	"gallery", "screenshots"
+	"gallery", "screenshots",
+	"reponame": "DevLogger",
+	"gallery": "screenshots/"
 }
 """
