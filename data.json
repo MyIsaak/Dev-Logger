@@ -1,8 +1,8 @@
 {
     "day": 4,
     "log": [
-        "Day 1: December 31, SundayHello World",
-        "Day 2: December 31, Sunday - Hello World",
-        "Day 3: December 31, Sunday\nHello World"
+        "### Day 1: January 01, Monday\n\nI've worked pretty hard on this\n\n[![Foo](https://raw.githubusercontent.com/myisaak/DevLogger/screenshots/2018-01-01.png)](Screenshot)",
+        "### Day 2: January 01, Monday\n\nI've also done this and that no way\n\n[![Foo](https://raw.githubusercontent.com/myisaak/DevLogger/screenshots/2018-01-01.png)](Screenshot)",
+        "### Day 3: January 01, Monday\n\nI've a\n\n[![Foo](https://raw.githubusercontent.com/myisaak/DevLogger/screenshots/2018-01-01.png)](Screenshot)"
     ]
 }

@@ -1,0 +1,9 @@
+{
+	"username":"username",
+	"password":"password",
+	"logpath":"log.md",
+	"email": "isaak.eriksson@gmail.com",
+	"repo": "https://github.com/MyIsaak/DevLogger",
+	"reponame": "DevLogger",
+	"gallery": "screenshots/"
+}
