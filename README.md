@@ -24,7 +24,7 @@ In order to run the script you need to set up a settings.json file. It contains 
 
 An example `settings.json` file:
 
-"""
+```
 {
 	"username":"user",
 	"password":"pass",
@@ -35,4 +35,4 @@ An example `settings.json` file:
 	"reponame": "DevLogger",
 	"gallery": "screenshots/"
 }
-"""
+```
