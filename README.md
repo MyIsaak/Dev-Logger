@@ -2,6 +2,8 @@
 
 > A simpler faster way to log your development process that tweets and pushes commits with screenshots
 
+![example screenshot](https://github.com/MyIsaak/DevLogger/blob/master/2018-01-01.png?raw=true)
+
 ### Introduction
 
 DevLogger is a command line tool for anyone that wants to update their daily log on Twitter and GitHub: In addition it takes screenshots and is super easy and simple to use from the terminal.
